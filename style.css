@@ -465,7 +465,7 @@ Responsive Behaviour
 }
 /* Join Section */
 .join-section {
-    background: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)),
+    background: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)),
                 url('https://www.cambridge.edu.in/wp-content/uploads/2020/12/work-with-us.jpg') no-repeat center center/cover;
     padding: 80px 20px;
     text-align: center;
@@ -480,7 +480,7 @@ Responsive Behaviour
 .join-content p {
     font-size: 1rem;
     margin-bottom: 25px;
-    color: #e0e0e0;
+    color: #ffffff;
 }
 
 .join-btn {
@@ -2374,3 +2374,4 @@ Responsive Behaviour
     }
 
 }
+
